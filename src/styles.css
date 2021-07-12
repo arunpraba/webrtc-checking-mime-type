@@ -1,0 +1,28 @@
+.App {
+  padding: 10px;
+  margin: 0;
+  font-family: sans-serif;
+  text-align: center;
+  background: palevioletred;
+  color: white;
+}
+
+.input-type {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 50px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border: 0;
+}
+
+.button {
+  padding: 10px;
+  font-size: 16px;
+  border: 0;
+  border-radius: 50px;
+  background: white;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left: 1px solid;
+}
